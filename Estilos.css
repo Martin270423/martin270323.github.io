@@ -1,0 +1,55 @@
+body {
+	background-image: url("paisaje.JPG");
+
+}
+
+h1 {
+	color: gray;
+	font-size: 95px;
+	background-color: tomato;
+	font-family: courier;
+	text-align: center;
+}
+
+h2 {
+	border: 3px solid red;
+	color: turquoise;
+    text-align: center;
+    font-size: 33px;
+}
+h3 {
+	color: blueviolet;
+	background-color: limegreen;
+	font-size: 45px;
+}
+p {
+	color: whitesmoke;
+	font-size: 22px;
+	font-family: terminal;
+}
+
+img{
+	border: 7px solid lightblue;
+	float: left;
+	width: 200px;
+	height: 300px;
+}
+button{
+	border-radius:50px;
+	color: whitesmoke;
+	padding: 10px 65px;
+	background-color:cadetblue;
+	font-size: 35px;
+	cursor: crosshair;
+	font-family: terminal;
+}
+
+a{
+	color:rgb(155,190,10);
+	font-family: cursive;
+	font-size: 40px;
+    
+
+}
+
+
